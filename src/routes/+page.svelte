@@ -6,7 +6,7 @@
 	}
 
 	function decrement() {
-		if (rounds <= 0) return;
+		if (rounds <= 1) return;
 		rounds -= 1;
 	}
 </script>
